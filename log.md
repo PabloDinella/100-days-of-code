@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
 
-## Day 0: April 02, 2017
+## Day 1: April 02, 2017
 
 **Today's Progress**: Started a one page calendar project, based on "Don't break the chain" idea.
 
 **Thoughts:** Feel very excited, writing down all ideas I have for this challenge :P
+
+**Commit(s):** [9ce6431](https://github.com/PabloDinella/chainCalendar/commit/9ce643128a8ca92abd3fdac022c5043565759c0b)
+
+**Link to work:** [Chain Calendar](https://github.com/PabloDinella/chainCalendar)
+
+## Day 2: April 04, 2017
+
+**Today's Progress**: Added some css and possibility to change the year.
+
+**Thoughts:** I think that things are getting a little mixed... Maybe using a lib like vuejs it could get better. I wonder what's the best practices to do this kind of app in pure JS.
+
+**Commit(s):** [d8b4e59](https://github.com/PabloDinella/chainCalendar/commit/d8b4e599c11fb6591fac6df4db2203f9d32917cf)
 
 **Link to work:** [Chain Calendar](https://github.com/PabloDinella/chainCalendar)
