@@ -1,4 +1,12 @@
-# I've joined the #100DaysOfCode Challenge.
+## Introduction
+
+I've joined [the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4), where I will code for 1 hour for the next 100 days. You can read the rules in the link. 
+
+**Start date:** April 2th, 2017
+
+**My twitter:** [@pablordinella](https://twitter.com/pablordinella)
+
+**My progress log:** [log.md](log.md)
 
 ## Contents
 * [Rules](rules.md)
@@ -7,7 +15,7 @@
 * [Resources](resources.md)
 
 ## If you've decided to join:
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+1. Read 
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
 3. **Code minimum an hour every day for the next 100 days.**
 4. Change the date in [Rules](rules.md) to the day you've started the challenge.
