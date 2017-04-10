@@ -24,8 +24,8 @@
 
 **Today's Progress**: Made some refactoring on code, reducting main function and separating specific tasks across more functions.
 
-**Thoughts:** 
-* Code is much more readable now. Thanks to [@MarioJuniorPro](https://twitter.com/MarioJuniorPro) (who also [joined the challenge](https://github.com/MarioJuniorPro/100-days-of-code)!) that showed me how I could improve this code. 
+**Thoughts:**
+* Code is much more readable now. Thanks to [@MarioJuniorPro](https://twitter.com/MarioJuniorPro) (who also [joined the challenge](https://github.com/MarioJuniorPro/100-days-of-code)!) that showed me how I could improve this code.
 * I feel like using twitter, this log, and committing to the repositories is to write almost the same thing 3 times.
 * I need to improve this repo's README.md. Just a reminder.
 
@@ -35,10 +35,20 @@
 
 ## Day 4: April 08, 2017
 
-**Today's Progress**: Started a new project that will consist on build a web page that is an enhanced versio of this log, that will include my tweets, commits and other links. Started playing around with twitter's API. Don't worry, the commited API secret keys are invalid.
+**Today's Progress**: Started a new project that will consist on building a web page that is an enhanced versio of this log, that will include my tweets, commits and other links. Started playing around with twitter's API. Don't worry, the commited API secret keys are invalid.
 
 **Thoughts:** Struggled a bit with twitter's API, it turns out that ```use_whitelist``` should be turned false so I don't get an unauthorized error. I also still feel excited with this challenge, despite I'm failing to do my code hour some days (I'm actually coding every other day).
 
 **Commit(s):** [8d3a0a7](https://github.com/PabloDinella/100-days-of-code/commit/8d3a0a7ad1cd95f5d81efa867af20cae6a9a40d5)
+
+**Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
+
+## Day 5: April 9, 2017
+
+**Today's Progress**: Wrote a simple python parser to get a json from this log.md file. Will use it to help me enhance my log :)
+
+**Thoughts:** Was scared of not remembering how to program in python. Indeed I had to take a look over python docs and stackoverflow to remember some things, but it's always pleasing to see how comfortable is to program in python!
+
+**Commit(s):** [51bba87](https://github.com/PabloDinella/100-days-of-code/commit/51bba87494d604b14377fa3f462c80026e3c1cc2)
 
 **Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
