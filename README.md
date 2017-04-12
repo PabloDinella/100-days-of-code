@@ -13,6 +13,12 @@ I've joined [the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100day
 - app for creating virtual rooms for scrum planning poker
 - chrome "tickler" (from GTD) extension? using google calendar api?
 - simple chrome extension for new tab with pretty images
+- use minecraft wiki api (if there's one) to show crafting recipes?
+- a telegram bot 
+
+## References (things I can use)
+
+- https://www.programmableweb.com/apis/directory
 
 ## Note
 
