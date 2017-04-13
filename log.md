@@ -52,3 +52,15 @@
 **Commit(s):** [51bba87](https://github.com/PabloDinella/100-days-of-code/commit/51bba87494d604b14377fa3f462c80026e3c1cc2)
 
 **Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
+
+## Day 6: April 12, 2017
+
+**Today's Progress**: Wrote a simple python script that concatenate several daily log files into a main one.
+
+**Thoughts:**
+* My intention is to make something similar to a static blog generator, where I have several log files, one per day, that is concatenated into one page. This is for my idea of enhancing this challenge log experience.
+* Feel sad for having failed two consecutive days, but I confess I knew I would have to stop on certain periods of time. But still very encouraged to go on! This kind of time-bounded compromise helps you to focus on coding instead of focusing on results.
+
+**Commit(s):** [a0a0c7c](https://github.com/PabloDinella/100-days-of-code/commit/a0a0c7ce4687be958dc460a3b2dfd78208333c0d)
+
+**Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
