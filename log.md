@@ -64,3 +64,13 @@
 **Commit(s):** [a0a0c7c](https://github.com/PabloDinella/100-days-of-code/commit/a0a0c7ce4687be958dc460a3b2dfd78208333c0d)
 
 **Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
+
+## Day 7: April 13, 2017
+
+**Today's Progress**: Downloaded a freehtml5.co template and made some tweaks.
+
+**Thoughts:** Time is tight, but we are making progress :) It's still weird to log here and on twitter tough...
+
+**Commit(s):** [3f343a5](https://github.com/PabloDinella/100-days-of-code/commit/3f343a544a8c110c2f214e0dc496e861f0b34ea8)
+
+**Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
