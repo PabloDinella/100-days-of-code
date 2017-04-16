@@ -74,3 +74,13 @@
 **Commit(s):** [3f343a5](https://github.com/PabloDinella/100-days-of-code/commit/3f343a544a8c110c2f214e0dc496e861f0b34ea8)
 
 **Link to work:** [100-days-of-code](https://github.com/PabloDinella/100-days-of-code)
+
+## Day 8: April 16, 2017
+
+**Today's Progress**: I paused the work on my "superlog" project to contribute to a Telegram Bot. This bot is about finding groups on telegram. I added the funcionality of showing the categories on http://tg-list.online/ and once an user selects one, it shows the chats on that category.
+
+**Thoughts:** Happy for being able to do things that some months ago would seem too much complicated for me. I can see how much I improved over time.
+
+**Commit(s):** [42a5f4a](https://github.com/PabloDinella/bot-grupos_ti/commit/42a5f4ab5da5055843a510f1fe7bb6946d2f9ea5)
+
+**Link to work:** [bot-grupos_ti](https://github.com/PabloDinella/bot-grupos_ti)
